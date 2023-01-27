@@ -1,0 +1,71 @@
+{
+  "bundler": "rollup",
+  "shimport": "2.0.4",
+  "assets": {
+    "main": "client.630baa59.js"
+  },
+  "css": {
+    "main": [
+      "client-d7a58b8b.css"
+    ]
+  },
+  "dependencies": {
+    "index.svelte": [
+      "index.09e008d8.js",
+      "inject_styles.5607aec6.js",
+      "index-39716d32.css"
+    ],
+    "doggie-details.svelte": [
+      "doggie-details.7fcc5dfd.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "converter/index.svelte": [
+      "index.3a07b42d.js",
+      "inject_styles.5607aec6.js",
+      "index-604638e5.css"
+    ],
+    "converter/[id].svelte": [
+      "_id_.4e009b56.js",
+      "inject_styles.5607aec6.js",
+      "_id_-f76e19fd.css"
+    ],
+    "settings/index.svelte": [
+      "index.2f4ff81c.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "history/[id].svelte": [
+      "_id_.3bc18be6.js",
+      "inject_styles.5607aec6.js",
+      "_id_-252ec1aa.css"
+    ],
+    "profile/index.svelte": [
+      "index.1d7c5418.js",
+      "inject_styles.5607aec6.js",
+      "index-5050e080.css"
+    ],
+    "tickets/[id].svelte": [
+      "_id_.01a2f82c.js",
+      "inject_styles.5607aec6.js",
+      "_id_-252ec1aa.css"
+    ],
+    "about.svelte": [
+      "about.8253d2e0.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "login.svelte": [
+      "login.5c24383f.js",
+      "inject_styles.5607aec6.js",
+      "login-339370cd.css"
+    ],
+    "blog/index.svelte": [
+      "index.94f1f083.js",
+      "inject_styles.5607aec6.js",
+      "index-7ed37c94.css"
+    ],
+    "blog/[slug].svelte": [
+      "_slug_.0fbae8ac.js",
+      "inject_styles.5607aec6.js",
+      "_slug_-5bc8f95f.css"
+    ]
+  }
+}
